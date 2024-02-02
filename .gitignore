@@ -1,0 +1,4 @@
+cv.py
+*.log
+index.html
+__pycache__
